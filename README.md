@@ -7,10 +7,10 @@ Last run config: `budget=200000000` `items=20` `min_value=8000000` `max_value=16
 
 | Rank | User | Bot | Win Rate | Wins | Matches | Score |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | demo-bots | greedy_value | 66.7% | 2 | 3 | 527_433_340 |
-| 2 | demo-bots | copycat_bidder | 66.7% | 2 | 3 | 389_012_052 |
-| 3 | demo-bots | steady_bidder | 33.3% | 1 | 3 | 416_675_385 |
-| 4 | demo-bots | random_bidder | 33.3% | 1 | 3 | 326_016_719 |
+| 1 | demo-bots | greedy_value | 66.7% | 2 | 3 | 516_657_736 |
+| 2 | demo-bots | copycat_bidder | 66.7% | 2 | 3 | 358_326_100 |
+| 3 | demo-bots | steady_bidder | 33.3% | 1 | 3 | 493_084_854 |
+| 4 | demo-bots | random_bidder | 33.3% | 1 | 3 | 193_862_531 |
 
 <!-- leaderboard:end -->
 
