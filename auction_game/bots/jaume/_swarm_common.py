@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 
 from auction_game import AuctionBot, AuctionState
-from auction_game.bots.jaume.codex_optimal_8 import CodexOptimal8Bot
+from auction_game.bots.jaume.codex_optimal_9 import CodexOptimal9Bot
 
 ROLE_SIGNAL_BASE = 100_000
 QUEEN_OPEN = 12_345
@@ -17,7 +17,7 @@ class SwarmConfig:
     lane: int = 0
 
 
-class SwarmBot(CodexOptimal8Bot):
+class SwarmBot(CodexOptimal9Bot):
     def __init__(self, config: SwarmConfig) -> None:
         super().__init__()
         self._config = config
