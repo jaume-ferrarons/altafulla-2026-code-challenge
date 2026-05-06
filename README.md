@@ -7,11 +7,21 @@ Last run config: `budget=200000000` `items=20` `min_value=8000000` `max_value=16
 
 | Rank | User | Bot | Win Rate | Wins | Matches | Score |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | martin | value_trap | 100.0% | 4 | 4 | 804_553_498 |
-| 2 | demo-bots | greedy_value | 50.0% | 2 | 4 | 658_726_964 |
-| 3 | demo-bots | copycat_bidder | 50.0% | 2 | 4 | 447_519_917 |
-| 4 | demo-bots | steady_bidder | 25.0% | 1 | 4 | 604_726_920 |
-| 5 | demo-bots | random_bidder | 25.0% | 1 | 4 | 226_518_152 |
+| 1 | miguellobato84 | value_sniper | 85.7% | 12 | 14 | 3_539_961_791 |
+| 2 | miguellobato84 | late_raiser | 85.7% | 12 | 14 | 3_527_118_200 |
+| 3 | martin | value_trap | 71.4% | 10 | 14 | 2_725_196_795 |
+| 4 | miguellobato84 | scarcity_aware | 64.3% | 9 | 14 | 2_669_994_731 |
+| 5 | miguellobato84 | anti_leader | 64.3% | 9 | 14 | 2_575_534_531 |
+| 6 | demo-bots | greedy_value | 64.3% | 9 | 14 | 2_519_288_649 |
+| 7 | miguellobato84 | noisy_opportunist | 57.1% | 8 | 14 | 2_829_135_889 |
+| 8 | demo-bots | copycat_bidder | 57.1% | 8 | 14 | 2_345_774_047 |
+| 9 | miguellobato84 | copycat_counterbidder | 50.0% | 7 | 14 | 3_262_662_183 |
+| 10 | miguellobato84 | balanced_portfolio | 35.7% | 5 | 14 | 3_165_357_161 |
+| 11 | miguellobato84 | cash_preserver | 35.7% | 5 | 14 | 2_519_903_717 |
+| 12 | demo-bots | steady_bidder | 35.7% | 5 | 14 | 2_460_420_749 |
+| 13 | miguellobato84 | early_domination | 21.4% | 3 | 14 | 1_641_830_585 |
+| 14 | miguellobato84 | deterministic_heuristic | 14.3% | 2 | 14 | 1_109_580_973 |
+| 15 | demo-bots | random_bidder | 7.1% | 1 | 14 | 599_034_225 |
 
 <!-- leaderboard:end -->
 
