@@ -7,32 +7,33 @@ Last run config: `budget=200000000` `items=20` `min_value=8000000` `max_value=16
 
 | Rank | User | Bot | Win Rate | Wins | Matches | Score |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | blai | mango | 96.0% | 24 | 25 | 5_863_510_077 |
-| 2 | ruben-abad | aggressive_bully | 96.0% | 24 | 25 | 5_839_116_136 |
-| 3 | ruben-abad | tit_for_tat | 80.0% | 20 | 25 | 6_008_662_927 |
-| 4 | jaume | king | 80.0% | 20 | 25 | 5_518_398_195 |
-| 5 | miguellobato84 | value_sniper | 76.0% | 19 | 25 | 6_536_255_551 |
-| 6 | ruben-abad | breakpoint_denier | 76.0% | 19 | 25 | 6_175_456_358 |
-| 7 | ruben-abad | budget_aware_bidder | 72.0% | 18 | 25 | 5_926_797_490 |
-| 8 | ruben-abad | value_hunter | 68.0% | 17 | 25 | 6_462_790_443 |
-| 9 | miguellobato84 | late_raiser | 68.0% | 17 | 25 | 6_376_621_342 |
-| 10 | ruben-abad | zero_intelligence_constrainer_rng | 60.0% | 15 | 25 | 6_463_940_999 |
-| 11 | demo-bots | copycat_bidder | 56.0% | 14 | 25 | 5_087_233_904 |
-| 12 | miguellobato84 | noisy_opportunist | 52.0% | 13 | 25 | 5_281_624_917 |
-| 13 | demo-bots | greedy_value | 52.0% | 13 | 25 | 4_641_273_269 |
-| 14 | martin | value_trap | 40.0% | 10 | 25 | 4_639_478_875 |
-| 15 | ruben-abad | zero_intelligence_constrainer | 36.0% | 9 | 25 | 6_167_985_146 |
-| 16 | miguellobato84 | copycat_counterbidder | 36.0% | 9 | 25 | 5_854_234_916 |
-| 17 | miguellobato84 | balanced_portfolio | 36.0% | 9 | 25 | 5_730_859_788 |
-| 18 | miguellobato84 | anti_leader | 36.0% | 9 | 25 | 4_710_271_830 |
-| 19 | miguellobato84 | scarcity_aware | 36.0% | 9 | 25 | 4_628_328_606 |
-| 20 | demo-bots | steady_bidder | 36.0% | 9 | 25 | 4_545_059_864 |
-| 21 | ruben-abad | patient_sniper | 28.0% | 7 | 25 | 6_072_608_171 |
-| 22 | miguellobato84 | cash_preserver | 28.0% | 7 | 25 | 4_655_622_906 |
-| 23 | ruben-abad | category_synergist | 24.0% | 6 | 25 | 5_316_080_798 |
-| 24 | miguellobato84 | deterministic_heuristic | 16.0% | 4 | 25 | 1_970_123_182 |
-| 25 | miguellobato84 | early_domination | 8.0% | 2 | 25 | 2_655_774_097 |
-| 26 | demo-bots | random_bidder | 8.0% | 2 | 25 | 959_621_425 |
+| 1 | jaume | codex_fun | 100.0% | 26 | 26 | 5_958_360_888 |
+| 2 | ruben-abad | aggressive_bully | 92.3% | 24 | 26 | 5_984_444_371 |
+| 3 | blai | mango | 92.3% | 24 | 26 | 5_880_668_580 |
+| 4 | jaume | king | 84.6% | 22 | 26 | 5_741_408_888 |
+| 5 | ruben-abad | breakpoint_denier | 76.9% | 20 | 26 | 6_305_744_695 |
+| 6 | ruben-abad | tit_for_tat | 73.1% | 19 | 26 | 6_342_381_957 |
+| 7 | miguellobato84 | late_raiser | 69.2% | 18 | 26 | 6_565_176_923 |
+| 8 | miguellobato84 | value_sniper | 69.2% | 18 | 26 | 6_452_895_807 |
+| 9 | ruben-abad | budget_aware_bidder | 69.2% | 18 | 26 | 6_071_684_227 |
+| 10 | ruben-abad | value_hunter | 61.5% | 16 | 26 | 6_557_514_379 |
+| 11 | demo-bots | greedy_value | 61.5% | 16 | 26 | 4_721_126_818 |
+| 12 | ruben-abad | zero_intelligence_constrainer_rng | 50.0% | 13 | 26 | 6_481_461_429 |
+| 13 | demo-bots | copycat_bidder | 50.0% | 13 | 26 | 5_270_753_204 |
+| 14 | miguellobato84 | scarcity_aware | 46.2% | 12 | 26 | 4_759_120_106 |
+| 15 | miguellobato84 | noisy_opportunist | 42.3% | 11 | 26 | 5_187_153_542 |
+| 16 | ruben-abad | zero_intelligence_constrainer | 38.5% | 10 | 26 | 6_191_117_549 |
+| 17 | miguellobato84 | copycat_counterbidder | 38.5% | 10 | 26 | 5_862_087_831 |
+| 18 | miguellobato84 | anti_leader | 38.5% | 10 | 26 | 4_837_080_459 |
+| 19 | martin | value_trap | 38.5% | 10 | 26 | 4_762_144_167 |
+| 20 | ruben-abad | patient_sniper | 30.8% | 8 | 26 | 6_362_491_906 |
+| 21 | miguellobato84 | balanced_portfolio | 30.8% | 8 | 26 | 5_893_179_440 |
+| 22 | demo-bots | steady_bidder | 30.8% | 8 | 26 | 4_503_468_285 |
+| 23 | miguellobato84 | cash_preserver | 23.1% | 6 | 26 | 4_307_449_556 |
+| 24 | ruben-abad | category_synergist | 15.4% | 4 | 26 | 5_486_433_362 |
+| 25 | miguellobato84 | early_domination | 11.5% | 3 | 26 | 2_935_539_757 |
+| 26 | miguellobato84 | deterministic_heuristic | 11.5% | 3 | 26 | 1_704_620_989 |
+| 27 | demo-bots | random_bidder | 3.8% | 1 | 26 | 866_785_136 |
 
 <!-- leaderboard:end -->
 
